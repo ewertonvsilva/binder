@@ -1,0 +1,7 @@
+openjdk-17-jdk-headless
+git
+curl
+wget
+ca-certificates
+bash
+procps
